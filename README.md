@@ -1,1 +1,2 @@
-# deep-learning-ecg
+# Classification of heartbeats with machine learning
+This repository is intended as extension of my previous project [Heartbeat ECG Classification](https://github.com/Chiuchiyin/Heartbeat-ECG-Classification) which I did for university assignment. I have also included the work in [this repository](https://github.com/Chiuchiyin/Classification-of-heartbeats-with-machine-learning/tree/main/Original%20work) for your convenience.
