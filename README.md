@@ -3,7 +3,7 @@ This repository is intended as extension of my previous project [Heartbeat ECG C
 
 # Work Plan
 The original project uses [Segmented and Preprocessed dataset from MIT-BIH Arrhythmia Database](https://www.kaggle.com/datasets/shayanfazeli/heartbeat/data?select=mitbih_test.csv). The algorithm used were KNN, Random Forest, Gradient Boost and SVM. 
-![The resulting models from earlier work](/img/original_model_metrics.jpg "Model Metrics")
+![The resulting models from earlier work](/img/original_model_metrics.png "Model Metrics")
 While the resulting models are rather impressive, I would like to explore the possibility of building better models. What I plan to do includes:
 1. Building deep learning model
 2. Generating synthetic data with GAN
