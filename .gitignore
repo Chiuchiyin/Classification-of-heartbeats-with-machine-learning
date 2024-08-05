@@ -48,6 +48,7 @@ mitdb/RECORDS
 mitdb/SHA256SUMS.txt
 mitdb/x_mitdb/ANNOTATORS
 mitdb/x_mitdb/RECORDS
-/Original work/.ipynb_checkpoints
+/00-Original-work/.ipynb_checkpoints
 /.ipynb_checkpoints
 /01-Deep-Learning/.ipynb_checkpoints
+/02-Synthetic-Data-with-GAN/.ipynb_checkpoints
