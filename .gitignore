@@ -52,3 +52,5 @@ mitdb/x_mitdb/RECORDS
 /.ipynb_checkpoints
 /01-Deep-Learning/.ipynb_checkpoints
 /02-Synthetic-Data-with-GAN/.ipynb_checkpoints
+*.csv
+*.zip
